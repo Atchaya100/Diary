@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\MEENA\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\Diary-main\src\main\java\com\example\demo\service\DairyService.java
 C:\Users\MEENA\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\Diary-main\src\main\java\com\example\demo\service\LoginService.java
 C:\Users\MEENA\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\Diary-main\src\main\java\com\example\demo\controller\LoginController.java
@@ -6,3 +7,10 @@ C:\Users\MEENA\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\Diary-main
 C:\Users\MEENA\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\Diary-main\src\main\java\com\example\demo\repository\DairyRepository.java
 C:\Users\MEENA\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\Diary-main\src\main\java\com\example\demo\entity\Login.java
 C:\Users\MEENA\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\Diary-main\src\main\java\com\example\demo\repository\LoginRepository.java
+=======
+/Users/AT20379603/Desktop/workspace/Login/src/main/java/com/example/demo/controller/LoginController.java
+/Users/AT20379603/Desktop/workspace/Login/src/main/java/com/example/demo/LoginApplication.java
+/Users/AT20379603/Desktop/workspace/Login/src/main/java/com/example/demo/service/LoginService.java
+/Users/AT20379603/Desktop/workspace/Login/src/main/java/com/example/demo/entity/Login.java
+/Users/AT20379603/Desktop/workspace/Login/src/main/java/com/example/demo/repository/LoginRepository.java
+>>>>>>> 5cda924f363c63b7a629e4df116cf3e67d9983ca
